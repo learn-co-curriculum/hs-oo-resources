@@ -4,7 +4,7 @@ language: ruby
 type: resources
 ---
 
-# Object Oriented Programming Resources
+## Object Oriented Programming Resources
 
 Here are a few resources to check out if you're interested in reading more about Object Orientation:
 
