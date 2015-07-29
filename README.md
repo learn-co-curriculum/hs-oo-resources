@@ -1,8 +1,4 @@
----
-tags: oo
-language: ruby
-type: resources
----
+
 
 ## Object Oriented Programming Resources
 
