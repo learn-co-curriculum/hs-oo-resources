@@ -10,4 +10,4 @@ Here are a few resources to check out if you're interested in reading more about
 
 + [Bastard's Book of Ruby on OOP](http://ruby.bastardsbook.com/chapters/oops/)
 
-<a href='https://learn.co/lessons/hs-oo-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-resources' title='Object Oriented Programming Resources'>Object Oriented Programming Resources</a> on Learn.co and start learning to code for free.</p>
